@@ -2,11 +2,11 @@
 
 Perkenalkan nama saya **Arijal Sidik** .
 
-Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).
+Saya seorang **FullStack Web Development Enthusiast**.
 
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Putera Indonesia](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).
+Saya menyukai semua profesi yang ada di ranah IT, apalagi dibidang Web Development.
 
-Saya juga memiliki gelar [Google Associate Android Developer](https://www.credential.net/h5deoi5h) sejak 2019.
+Saya insyaallah akan memiliki gelar S.Kom. di Universitas Putra Indonesia "YPTK" Padang.
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/arijal-sidik/)ku ya.
 
