@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Arijal Sidik** .
 
-Saya seorang **FullStack Web Development Enthusiast**.
+Saya seorang **Frontend Web Development Enthusiast**.
 
 Saya menyukai semua profesi yang ada di ranah IT, apalagi dibidang Web Development.
 
