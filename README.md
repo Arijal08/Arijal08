@@ -6,7 +6,7 @@ Saya seorang **Frontend Web Development Enthusiast**.
 
 Saya menyukai semua profesi yang ada di ranah IT, apalagi dibidang Web Development.
 
-Saya insyaallah akan memiliki gelar S.Kom. di Universitas Putra Indonesia "YPTK" Padang.
+Saya memiliki gelar S.Kom. di Universitas Putra Indonesia "YPTK" Padang.
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/arijal-sidik/)ku ya.
 
